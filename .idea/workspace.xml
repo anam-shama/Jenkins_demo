@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c4eaad-c6e1-4195-b163-0f91431fe13a" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="18c4eaad-c6e1-4195-b163-0f91431fe13a" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/selenium_session.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/selenium_session.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +25,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/TTN/Desktop/Jenkins_demo/src/test/java/testSuites/combine-testng.xml">
     <configuration name="C:/Selenium_session-master/src/test/java/testSuites/include-package-testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_session-master" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testSuites/include-package-testng.xml" />
@@ -32,8 +39,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/TTN/Desktop/Jenkins_demo/src/test/java/testSuites/combine-testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Jenkins_demo" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testSuites/combine-testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Selenium_session-master/src/test/java/testSuites/include-package-testng.xml" />
+      <item itemvalue="TestNG.C:/Users/TTN/Desktop/Jenkins_demo/src/test/java/testSuites/combine-testng.xml" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/TTN/Desktop/Jenkins_demo/src/test/java/testSuites/combine-testng.xml" />
         <item itemvalue="TestNG.C:/Selenium_session-master/src/test/java/testSuites/include-package-testng.xml" />
       </list>
     </recent_temporary>
@@ -48,5 +82,16 @@
       <updated>1618075029942</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
